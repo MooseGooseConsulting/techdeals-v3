@@ -1,0 +1,5 @@
+{
+  // markdownlint defaults, except line length: the docs are written as one line per paragraph.
+  "default": true,
+  "MD013": false
+}
