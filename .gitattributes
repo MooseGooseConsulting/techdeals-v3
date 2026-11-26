@@ -1,0 +1,4 @@
+# Line endings: LF in the repository and in every checkout, whatever the client's core.autocrlf.
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf

@@ -1,0 +1,18 @@
+# Secrets and local environment. Commit an .env.example instead.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs and scratch output.
+*.log
+*.tmp
+*.bak
+
+# Operating system and editor files.
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
